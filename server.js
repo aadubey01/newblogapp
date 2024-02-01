@@ -21,7 +21,7 @@ app.use(morgan('dev'));
 
 app.get("/" ,(req,res)=>{
     res.status(200).send({
-        message:"Node Server created by Prehans",
+        message:"Node Server created by Aakriti",
     });
 });
 
